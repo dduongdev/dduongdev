@@ -70,7 +70,7 @@ I love exploring new technologies and pride myself on adaptability and a can-do 
 | Language   | Proficiency               |
 |------------|---------------------------|
 | Vietnamese | Native                    |
-| English    | Professional proficiency  |
+| English    | Learning, basic level     |
 | Japanese   | Learning, key phrases     |
 
 > 🇯🇵 _"私は自分の自由が欲しい。"_  
