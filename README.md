@@ -85,12 +85,6 @@ I love exploring new technologies and pride myself on adaptability and a can-do 
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlrbDdkOTVqeWgwZjI2a2Q3MzE0dW1wN2QyZWFzM3I0aGtxbHlycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26uflHpx5uKkH5DYA/giphy.gif" width="140" alt="Freedom GIF"/>
-</div>
-
----
-
 ### 📬 Feel free to reach out!
 
 <p align="center">
